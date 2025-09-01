@@ -1,0 +1,13 @@
+{
+  "maxFileSize": 10485760,
+  "allowedFormats": [
+    ".mp3",
+    ".wav",
+    ".ogg",
+    ".m4a"
+  ],
+  "autoReconnect": true,
+  "volume": 0.5,
+  "maxSounds": 100,
+  "antiMuteProtection": true
+}
